@@ -1,6 +1,6 @@
 # Locadora Museu (backend)
 
-Backend de uma aplicação de uma locadora fictícia desenvolvida com Spring Boot, Vue.js e Bootstrap para um trabalho da faculdade.
+Backend de uma aplicação de uma locadora fictícia desenvolvida com Spring Boot para um trabalho da faculdade.
 
 Centro Universitário Municipal de São José
 
